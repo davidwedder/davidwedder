@@ -138,7 +138,8 @@ Me chamo David Garajan Rohwedder, seja bem vindo ao meus repositórios
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200"     
+      height="195"  
+      width="480"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwedder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
