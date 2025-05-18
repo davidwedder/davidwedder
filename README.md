@@ -1,4 +1,4 @@
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo David Garajan Rohwedder, seja bem vindo ao meus repositórios
 
